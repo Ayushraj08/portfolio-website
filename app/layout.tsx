@@ -6,9 +6,15 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Nirban's Portfolio",
+  title: "Ayush's Portfolio",
   description: "My portfolio made with Next.js, TypeScript and Tailwind CSS",
+  icons: {
+    icon: "/favicon-v2.ico",              // Default favicon
+    shortcut: "/favicon-v2.ico",          // For legacy browsers
+    apple: "/apple-touch-icon.png",    // For iOS home screen
+  },
 };
+
 
 export default function RootLayout({
   children,

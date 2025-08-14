@@ -28,7 +28,7 @@ export const gridItems = [
     },
     {
         id: 3,
-        title: "My tech stack",
+        title: "Upskilling",
         description: "I constantly try to improve",
         className: "lg:col-span-2 md:col-span-3 md:row-span-2",
         imgClassName: "",
@@ -49,7 +49,7 @@ export const gridItems = [
 
     {
         id: 5,
-        title: "Currently working on a Defi protocol",
+        title: "Currently working on an AI Agent",
         description: "The Inside Scoop",
         className: "md:col-span-3 md:row-span-2",
         imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -57,47 +57,47 @@ export const gridItems = [
         img: "/b5.svg",
         spareImg: "/grid.svg",
     },
-    {
-        id: 6,
-        title: "Do you want to start a project together?",
-        description: "",
-        className: "lg:col-span-2 md:col-span-3 md:row-span-1",
-        imgClassName: "",
-        titleClassName: "justify-center md:max-w-full max-w-60 text-center",
-        img: "",
-        spareImg: "",
-    },
+    // {
+    //     id: 6,
+    //     title: "Do you want to start a project together?",
+    //     description: "",
+    //     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
+    //     imgClassName: "",
+    //     titleClassName: "justify-center md:max-w-full max-w-60 text-center",
+    //     img: "",
+    //     spareImg: "",
+    // },
 ];
 
 export const projects = [
     {
         id: 1,
-        title: "AI Expense Tracker",
-        des: "A web application for tracking personal finance with AI integration.",
-        img: "/expense.png",
-        link: "https://expense-tracker-phi-wine.vercel.app/",
+        title: "Samvidhann Seva",
+        des: "A web application that simplifies and gamify the Constitution of India.",
+        img: "/samvidhan-seva.png",
+        link: "https://www.samvidhan-seva.live/",
     },
     {
         id: 2,
-        title: "Klimatee - weather app",
-        des: "A web application that shows weather of different locations including your current location",
-        img: "/klimatee.png",
-        link: "https://klimatee.vercel.app/",
+        title: "Meteorolgy Web App",
+        des: "A web application that analyzes, visualizes, and explains weather trends instantly.",
+        img: "/meteorology.png",
+        link: "https://github.com/Ayushraj08/Meteorology_Project",
     },
-    {
-        id: 3,
-        title: "Car Slayer",
-        des: "A blockchain-based NFT game where players can buy, sell, and trade car NFTs using cryptocurrency.",
-        img: "/nft-game.png",
-        link: "https://car-slayer.vercel.app/",
-    },
-    {
-        id: 4,
-        title: "Stakify",
-        des: "A decentralized application that allows users to stake tokens and earn rewards on the Polygon blockchain.",
-        img: "/stakify.png",
-        link: "https://stakify-rose.vercel.app/",
-    },
+    // {
+    //     id: 3,
+    //     title: "Diabetes Prediction",
+    //     des: "A web application that analyzes and visualizes input and explains whether you're diabetic or not.",
+    //     img: "/nft-game.png",
+    //     link: "https://car-slayer.vercel.app/",
+    // },
+    // {
+    //     id: 4,
+    //     title: "Stakify",
+    //     des: "A decentralized application that allows users to stake tokens and earn rewards on the Polygon blockchain.",
+    //     img: "/stakify.png",
+    //     link: "https://stakify-rose.vercel.app/",
+    // },
 ];
 
 // export const testimonials = [
@@ -169,15 +169,15 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Blockchain Developer",
-        desc: "Build full-stack blockchain applications, from smart contracts to front-end interfaces using Solidity & React.js",
+        title: "Summer Intern at DRDO",
+        desc: "Build a web app that analyzes, visualizes, and explains weather trends instantly using HTML, CSS, JavaScript, Python, Pandas.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "Blockchain Intern",
-        desc: "Assisted in developing tokenomics for a new cryptocurrency project.",
+        title: "Samvidhann Seva (A Startup Idea)",
+        desc: "Developed and implemented a web application that simplifies and gamify the Constitution of India.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp2.svg",
     }
@@ -187,16 +187,16 @@ export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
-        link: "https://www.github.com/nirban256"
+        link: "https://www.github.com/Ayushraj08"
     },
     {
         id: 2,
         img: "/twit.svg",
-        link: "https://x.com/NirbanChakrab10"
+        link: "https://x.com/_imasr"
     },
     {
         id: 3,
         img: "/link.svg",
-        link: "https://www.linkedin.com/in/nirban-chakraborty/"
+        link: "https://www.linkedin.com/in/ayussh-raj/"
     },
 ];

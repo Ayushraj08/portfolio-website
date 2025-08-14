@@ -35,9 +35,15 @@ const Hero = () => {
                         Hi, I&apos;m Ayush, a Full Stack developer & Vibe Coder based in India.
                     </p>
 
+                    <div className="flex gap-4 justify-center">
+                    <a href="https://drive.google.com/file/d/1e7rpLF07k-cA67sSd6FgYb_FHxgLsTOe/view?usp=sharing">
+                        <MagicButton title='My Resume' icon={<FaLocationArrow />} position='left' />
+                    </a>
+
                     <a href="#projects">
                         <MagicButton title='Share my Work' icon={<FaLocationArrow />} position='right' />
                     </a>
+                    </div>
                 </div>
             </div>
         </div>

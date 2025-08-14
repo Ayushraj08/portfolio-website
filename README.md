@@ -26,7 +26,7 @@ LinkedIn: https://www.linkedin.com/in/ayussh-raj/
 
 ## Have a Look
 
-Portfolio: https://portfolio-website-liart-theta-97.vercel.app/
+Portfolio: https://ayussh-portfolio.vercel.app/
 
 ## Learn More
 
@@ -42,3 +42,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Images
+
+Portfolio: https://ayussh-portfolio.vercel.app/
+
+<img width="1909" height="928" alt="Screenshot 2025-08-14 134244" src="https://github.com/user-attachments/assets/0ee673ca-d7c6-4c97-8c91-077ae25008f0" />
+<img width="1904" height="923" alt="Screenshot 2025-08-14 134256" src="https://github.com/user-attachments/assets/c9e68015-517b-487e-88a3-e895bfbec4fd" />
+<img width="1901" height="932" alt="Screenshot 2025-08-14 134309" src="https://github.com/user-attachments/assets/5bdbf1ab-fe68-49a5-9560-1004f053e64f" />
+
+

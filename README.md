@@ -1,3 +1,5 @@
+Portfolio: https://ayussh-portfolio.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -23,10 +25,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Connect with me
 
 LinkedIn: https://www.linkedin.com/in/ayussh-raj/
-
-## Have a Look
-
-Portfolio: https://ayussh-portfolio.vercel.app/
 
 ## Learn More
 

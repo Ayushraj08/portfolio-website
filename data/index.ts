@@ -118,7 +118,7 @@ export const projects = [
         des: "A smart web app that instantly verifies news authenticity using machine learning.",
         img: "/fakenews.png",
         link: "https://fake-news-prediction.lovable.app/",
-    }
+    },
 ];
 
 // export const testimonials = [

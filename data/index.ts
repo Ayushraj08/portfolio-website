@@ -84,20 +84,41 @@ export const projects = [
         img: "/meteorology.png",
         link: "https://github.com/Ayushraj08/Meteorology_Project",
     },
-    // {
-    //     id: 3,
-    //     title: "Diabetes Prediction",
-    //     des: "A web application that analyzes and visualizes input and explains whether you're diabetic or not.",
-    //     img: "/nft-game.png",
-    //     link: "https://car-slayer.vercel.app/",
-    // },
-    // {
-    //     id: 4,
-    //     title: "Stakify",
-    //     des: "A decentralized application that allows users to stake tokens and earn rewards on the Polygon blockchain.",
-    //     img: "/stakify.png",
-    //     link: "https://stakify-rose.vercel.app/",
-    // },
+    {
+        id: 3,
+        title: "AI - Judge",
+        des: "AI-Judge is a smart automated judging system that uses AI to evaluate submissions quickly and fairly. It eliminates bias and manual effort through intelligent scoring.",
+        img: "/ai-judge.png",
+        link: "https://ai-judge.lovable.app/",
+    },
+    {
+        id: 4,
+        title: "Execution – Supply Chain Project",
+        des: "The focus of this module is to build a Packing Station Load Balancer that optimizes how orders are distributed across multiple packing stations in real time.",
+        img: "/execution.png",
+        link: "https://e1-frontend.vercel.app/",
+    },
+    {
+        id: 5,
+        title: "FreshBites: Supply Chain Planner",
+        des: "The web-app focuses on optimizing supply chain operations by combining Planning (forecasting, inventory, capacity) and Execution (packing station load balancing) in a single intelligent system.",
+        img: "/freshbite.png",
+        link: "https://fresh-bites-solution.vercel.app/",
+    },
+    {
+        id: 6,
+        title: "Rainfall Prediction Web App",
+        des: "This app predicts rainfall based on weather parameters like humidity, temperature, pressure, windspeed, etc.",
+        img: "/rainfall.png",
+        link: "https://rainfall-prediction-ml.streamlit.app/",
+    },
+    {
+        id: 7,
+        title: "Fake News Prediction using ML",
+        des: "A smart web app that instantly verifies news authenticity using machine learning.",
+        img: "/fakenews.png",
+        link: "https://fake-news-prediction.lovable.app/",
+    }
 ];
 
 // export const testimonials = [
@@ -191,12 +212,17 @@ export const socialMedia = [
     },
     {
         id: 2,
-        img: "/twit.svg",
-        link: "https://x.com/_imasr"
+        img: "/link.svg",
+        link: "https://www.linkedin.com/in/ayussh-raj/"
     },
     {
         id: 3,
-        img: "/link.svg",
-        link: "https://www.linkedin.com/in/ayussh-raj/"
+        img: "/insta.svg",
+        link: "https://www.instagram.com/_imasr_/"
+    },
+    {
+        id: 4,
+        img: "/twit.svg",
+        link: "https://x.com/_imasr"
     },
 ];

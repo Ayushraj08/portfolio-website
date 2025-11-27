@@ -36,12 +36,12 @@ const Hero = () => {
                     </p>
 
                     <div className="flex gap-4 justify-center">
-                    <a href="https://drive.google.com/file/d/1e7rpLF07k-cA67sSd6FgYb_FHxgLsTOe/view?usp=sharing">
+                    <a href="https://shorturl.at/1596T">
                         <MagicButton title='My Resume' icon={<FaLocationArrow />} position='left' />
                     </a>
 
                     <a href="#projects">
-                        <MagicButton title='Share my Work' icon={<FaLocationArrow />} position='right' />
+                        <MagicButton title='My Work' icon={<FaLocationArrow />} position='right' />
                     </a>
                     </div>
                 </div>
